@@ -65,3 +65,4 @@ C:\Users\eduar\source\repos\LojaDeCarros\LojaDeCarros\obj\Debug\net6.0\LojaDeCar
 C:\Users\eduar\source\repos\LojaDeCarros\LojaDeCarros\obj\Debug\net6.0\LojaDeCa.4BF6E36D.Up2Date
 C:\Users\eduar\source\repos\LojaDeCarros\LojaDeCarros\bin\Debug\net6.0\Humanizer.dll
 C:\Users\eduar\source\repos\LojaDeCarros\LojaDeCarros\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eduar\source\repos\LojaDeCarros\LojaDeCarros\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt

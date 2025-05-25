@@ -1,4 +1,4 @@
-﻿using LojaDeCarros.Model;
+﻿using LojaDeCarros.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace LojaDeCarros.Data;

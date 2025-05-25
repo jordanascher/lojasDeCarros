@@ -1,0 +1,43 @@
+﻿@model LojaDeCarros.Models.Carro
+
+<h1>Cadastrar Carro</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Modelo"></label>
+        <input asp-for="Modelo" class="form-control" />
+        <span asp-validation-for="Modelo" class="text-danger"></span>
+    </div>
+
+@*     <div class="form-group">
+        <label asp-for="Marca"></label>
+        <input asp-for="Marca" class="form-control" />
+        <span asp-validation-for="Marca" class="text-danger"></span>
+    </div> *@
+
+    <div class="form-group">
+        <label asp-for="AnoFabricacao"></label>
+        <input asp-for="AnoFabricacao" class="form-control" type="number" />
+        <span asp-validation-for="AnoFabricacao" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Chassi"></label>
+        <input asp-for="Chassi" class="form-control" />
+        <span asp-validation-for="Chassi" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Preco"></label>
+        <input asp-for="Preco" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="Preco" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Salvar</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

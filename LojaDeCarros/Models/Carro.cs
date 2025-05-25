@@ -1,4 +1,4 @@
-﻿namespace LojaDeCarros.Model
+﻿namespace LojaDeCarros.Models
 {
     public class Carro
     {

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<LojaDeCarros.Models.Carro>
+
+<h1>Lista de Carros</h1>
+
+<a asp-action="Create" class="btn btn-success">Cadastrar Carro</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Modelo</th>
+            <th>Preço</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var carro in Model)
+        {
+            <tr>
+                <td>@carro.Id</td>
+                <td>@carro.Modelo</td>
+                <td>@carro.Preco.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
