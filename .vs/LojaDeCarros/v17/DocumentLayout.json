@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LojaDeCarros\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:30:29.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-25T17:29:11.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LojaDeCarros\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T17:09:55.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LojaDeCarros\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:09:32.012Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
