@@ -1,0 +1,9 @@
+﻿@model LojaDeCarros.Models.Carro
+
+<h3>Carro #@Model.Id - @Model.Modelo</h3>
+
+<form asp-action="DeleteConfirmed" asp-route-id="@Model.Id" method="post">
+    @Html.AntiForgeryToken()
+    <input type="submit" value="Confirmar Exclusão" class="btn btn-danger" />
+    <a asp-action="Index">Voltar para a listagem</a>
+</form>

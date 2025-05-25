@@ -55,45 +55,78 @@ namespace LojaDeCarros.Controllers
         }
 
         // GET: HomeController1/Edit/5
-        public ActionResult Edit(int id)
+        public async Task<IActionResult> Edit(int id)
         {
-            return View();
+            var carro = await _context.Carros.FindAsync(id);
+            if (carro == null)
+            {
+                return NotFound();
+            }
+
+            return View(carro);
         }
 
         // POST: HomeController1/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Modelo,AnoModelo,Chassi,Preco")] Carro carro)
         {
+            if (id != carro.Id) {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                return View(carro);
+            }
+
             try
             {
-                return RedirectToAction(nameof(Index));
+                _context.Update(carro);
+                await _context.SaveChangesAsync();
             }
-            catch
+            catch (DbUpdateConcurrencyException)
             {
-                return View();
+                if (!CarroExists(carro.Id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
             }
-        }
 
-        // GET: HomeController1/Delete/5
-        public ActionResult Delete(int id)
+            return RedirectToAction(nameof(Index));
+        }
+        private bool CarroExists(int id)
         {
-            return View();
+            return _context.Carros.Any(e => e.Id == id);
         }
 
-        // POST: HomeController1/Delete/5
+        public async Task<IActionResult> Delete(int id)
+        {
+            var carro = await _context.Carros.FindAsync(id);
+
+            if (carro == null)
+            {
+                return NotFound();
+            }
+
+            return View(carro);
+        }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            var carro = _context.Carros.Find(id);
+
+            _context.Carros.Remove(carro);
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
         }
     }
 }

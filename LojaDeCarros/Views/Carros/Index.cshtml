@@ -10,6 +10,7 @@
             <th>Id</th>
             <th>Modelo</th>
             <th>Preço</th>
+            <td></td>
         </tr>
     </thead>
     <tbody>
@@ -19,6 +20,7 @@
                 <td>@carro.Id</td>
                 <td>@carro.Modelo</td>
                 <td>@carro.Preco.ToString("C")</td>
+                <td><a asp-action="Edit" asp-route-id="@carro.Id">Editar</a><a asp-action="Delete" class="btn btn-danger" asp-route-id="@carro.Id">Remover</a></td>
             </tr>
         }
     </tbody>

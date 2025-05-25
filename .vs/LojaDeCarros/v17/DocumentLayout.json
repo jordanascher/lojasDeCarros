@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\views\\carros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\carros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\views\\carros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\carros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\views\\carros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\carros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\views\\carros\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\carros\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\views\\carros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\carros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|c:\\users\\eduar\\source\\repos\\lojadecarros\\lojadecarros\\views\\carros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C16579B8-0BEB-4CC9-8452-152889F9DCC7}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\carros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +46,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Carros\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Carros\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Carros\\Edit.cshtml",
+              "RelativeToolTip": "LojaDeCarros\\Views\\Carros\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T21:06:01.8Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LojaDeCarros\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T22:15:41.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Carros\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Carros\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Carros\\Delete.cshtml.cs",
+              "RelativeToolTip": "LojaDeCarros\\Views\\Carros\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:00:48.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Carros\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Carros\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Carros\\Delete.cshtml",
+              "RelativeToolTip": "LojaDeCarros\\Views\\Carros\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T21:56:04.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\README.md",
+              "RelativeDocumentMoniker": "LojaDeCarros\\README.md",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\README.md",
+              "RelativeToolTip": "LojaDeCarros\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-25T21:37:44.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Models\\Carro.cs",
               "RelativeDocumentMoniker": "LojaDeCarros\\Models\\Carro.cs",
               "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Models\\Carro.cs",
               "RelativeToolTip": "LojaDeCarros\\Models\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T19:08:53.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Carros\\Create.cshtml",
               "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Carros\\Create.cshtml",
               "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Carros\\Create.cshtml",
               "RelativeToolTip": "LojaDeCarros\\Views\\Carros\\Create.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-25T19:04:27.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CarrosController.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Controllers\\CarrosController.cs",
               "RelativeDocumentMoniker": "LojaDeCarros\\Controllers\\CarrosController.cs",
               "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Controllers\\CarrosController.cs",
               "RelativeToolTip": "LojaDeCarros\\Controllers\\CarrosController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T19:01:31.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Carros\\Index.cshtml",
               "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Carros\\Index.cshtml",
               "ToolTip": "C:\\Users\\eduar\\source\\repos\\LojaDeCarros\\LojaDeCarros\\Views\\Carros\\Index.cshtml",
               "RelativeToolTip": "LojaDeCarros\\Views\\Carros\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-25T19:00:37.24Z",
               "EditorCaption": ""
